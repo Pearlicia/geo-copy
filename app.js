@@ -1,8 +1,7 @@
-// Tutorial by http://youtube.com/CodeExplained
-// api key : 82005d27a116c2880c8f0fcb866998a0
+
 // mine c8179447bd2953cd63b9fa3cea6b286d
 // new 0bc067623234ba9de65b42121a3c4542
-// lat=${latitude}&lon=${longitude}
+
 
 
 // SELECT ELEMENTS
